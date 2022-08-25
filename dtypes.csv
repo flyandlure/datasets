@@ -1,0 +1,5 @@
+objects,int64s,float64s,bools,categories,datetime64s,current_date,timedeltas
+Engine,410,3.12,True,Lotus,2022-08-21,2020-01-01,963 days
+Gearbox,330,4.24,False,Alpine,2022-08-22,2020-01-01,964 days
+1,572,4.12,True,Porsche,2022-08-23,2020-01-01,965 days
+34.45,345,3.89,False,Lada,2022-08-23,2020-01-01,965 days
